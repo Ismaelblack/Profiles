@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://lh3.googleusercontent.com/a-/AOh14Gi8XP9g9oCaXNcBy4E62ZlJ_tnRoigleIbeEnhA=s288-p-no" alt=""
-       style="border-radius: 100%; height: 100px; width: 100px;"/>
+       style="height: 120px; width: 120px; border-radius: 100%;"/>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ismaelblack&repo=profiles&show_icons=true&theme=dark)](https://github.com/Ismaelblack/profiles)
