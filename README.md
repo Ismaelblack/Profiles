@@ -5,8 +5,6 @@
        style="height: 120px; width: 120px; border-radius: 100%;"/>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ismaelblack&repo=profiles&show_icons=true&theme=dark)](https://github.com/Ismaelblack/profiles)
-
 ![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismaelblack&show_icons=true&theme=dark)
 
 ### Operating Systems
